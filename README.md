@@ -5,7 +5,7 @@
 
 💡 Open to collaborating on projects in C, Java, and Web Development
 
-📫 How to reach me: karanbhandari@email.com (or your LinkedIn/GitHub profile link)
+📫 How to reach me: karanbhandari@email.com
 
 😄 Pronouns: He
 
