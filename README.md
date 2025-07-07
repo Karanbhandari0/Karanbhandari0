@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Karanbhandari0
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Hi, I’m @Karanbhandari0
+👀 I’m passionate about software development
 
-<!---
-Karanbhandari0/Karanbhandari0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning C,Java,Python and improving my coding skills
+
+💡 Open to collaborating on projects in C, Java, and Web Development
+
+📫 How to reach me: karanbhandari@email.com (or your LinkedIn/GitHub profile link)
+
+😄 Pronouns: He
+
+⚡ Fun fact: I enjoy solving coding challenges and exploring new tech tools!
